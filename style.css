@@ -1,0 +1,27 @@
+form{
+    width: 800px; 
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin: 0 auto;
+}
+.form-group {
+    background-color: beige;
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    align-items: center;
+    position: relative;
+  }
+.button-group{
+font-family: 'Times New Roman', Times, serif;
+    width: 50px;
+    display: flex;
+    justify-content: space-between;   
+}
+.button-group input[type="submit"] {
+    margin: 0px 10px; 
+    background-color: wheat;
+  }
+  label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+  }
